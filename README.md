@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karnprashantpk
+- 👋 Hi, I’m Prashant!
 - 👀 I’m in Junior Year College
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on open-source projects
