@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prashant!
-- 👀 I’m in Junior Year College
+- 👀 I’m in Senior Year of College
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me: @karnprashantpk everywhere
