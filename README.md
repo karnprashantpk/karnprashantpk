@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Enhancing an e-commerce platform and a React-based movie app.<br>👯 I’m looking to collaborate on: Open-source projects in front-end development and full-stack apps.<br>🤝 I’m looking for help with: Advanced React, Node.js, and cloud deployment with AWS.<br>🌱 I’m currently learning to: Improve my Node.js and backend development skills.<br>💬 Ask me about: Front-end development and building responsive web applications.<br>⚡ Fun fact: I’m fluent in Gujarati, Hindi, and English, and I enjoy exploring cultures through coding.
+🔭 I’m currently working on: Enhancing an e-commerce platform and a React-based movie app.<br>👯 I’m looking to collaborate on: Open-source projects in front-end development and full-stack apps.<br>🤝 I’m looking for help with: Advanced React, Node.js, and cloud deployment with AWS.<br>🌱 I’m currently learning to: Improve my Node.js and backend development skills.<br>💬 Ask me about: Front-end development and building responsive web applications.<br>⚡ Fun fact: I’m fluent in English, Hindi, Gujarati, and Maithili and I enjoy exploring cultures through coding.
 
 
 ## 🌐 Socials:
